@@ -6,11 +6,11 @@ function App() {
     <div className="app-container">
       <header className="app-header">
         <img
-          src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxv67f8ASr-QOHPO0tAcBMtouGTtte7YXZ7_OmzsAum_pi03b7evf3-92cAprgbHUlkA9SJECO7GDfX7tvYdihsyyYL9u7tsXCtLS4pAPpdY8KM1vjw3_qfDDcSUO2tRcSSstVYyB1Ij0bKGhYdqj3fQtADeLc8j8WYo1XF2n9KP7BJL-oU8IUDxHUS5o/s320/1001.jpg"
-          alt="VK Chatbot Logo"
+          src="https://blogger.googleusercontent.com/img/a/AVvXsEgUQEqZu-5pJyweN1Siq02n8yYfLQ64mj9tPYZujChllmhM8b8uiOXeA8alQvmsH80Jezmp64UiqtcqsmUFbs7uHq5FijuWqe_lAGuy32z1amVeYyvLzA95NryhmUKoJj1yBgcfaCuF1ofj_I32tFOB2dFhjmOmXiw_vRvffLBBvAHbC6zf4TDXv1Z0leo"
+          alt="UK Chatbot Logo"
           className="logo"
         />
-        <h1 className="title">VK Chatbot</h1>
+        <h1 className="title">UK Chatbot</h1>
       </header>
 
       <main className="chat-container">
@@ -18,7 +18,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>© 2025 VK Chatbot. Built with ❤️ by Vasanth.</p>
+        <p>© 2025 UK Chatbot. Built with ❤️ by Uday Krishna.</p>
       </footer>
     </div>
   );
